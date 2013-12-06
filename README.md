@@ -1,4 +1,4 @@
 MathMetropolis
 ==============
 
-The GitHub repository for maintaining iPads and checking issues
+The GitHub repository for maintaining iPads, collaborating, and checking issues.
